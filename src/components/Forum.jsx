@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom"; // ✅ Add this
 import React, { useState } from "react";
+import { Link } from "react-router-dom"; // ✅ add this
 import { ShoppingCart, Bell, User, ChevronDown, Phone, Search, X } from "lucide-react";
 
 export default function Forum() {
